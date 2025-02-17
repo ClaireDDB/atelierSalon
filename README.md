@@ -7,3 +7,15 @@ L'atelier s'appuiera sur ces différents fichiers pour transmettre des compéten
 Cet atelier nécessitera aussi l'accès à un ordinateur, au Web et à un logciel de tableur (Microsoft Excel ou LibreOffice Calc).
 
 Claire Dupin de Beyssat
+
+## Archives
+
+FICHIERS A VENIR
+
+## Anthologies critiques
+
+FICHIERS A VENIR
+
+# Jeux de données
+
+FICHIERS A VENIR
